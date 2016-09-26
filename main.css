@@ -1,0 +1,122 @@
+body{
+	width: 600px
+	margin: 0 auto;
+	background-color: sienna;
+	text-align: center;
+	border: 20px beige solid;
+	border-radius: 	30px;
+	height: 	650px;
+	margin-top: 	5px;
+}
+
+h1{
+	border-bottom: 	20px beige solid;
+	width:inherit auto;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	display: 	inline-block;	
+}
+
+
+
+#sugar{
+	width: 220px;
+	height: 250px;
+	/*position: relative;*/
+	border: 10px bisque solid;
+	background-color: beige ;
+	margin-left: 	150px;
+	float:left;
+	border-radius: 5px;	
+}
+
+#chocolate{
+	width: 220px;
+	height: 250px;
+	/*position: relative;*/
+	border: 10px bisque solid;
+	background-color: beige ;
+	float:left;
+	margin-left: 	150px;
+	border-radius: 	5px;
+}
+
+#lemon{
+	width: 220px;
+	height: 250px;
+	/*position: relative;*/
+	border: 10px bisque solid;
+	background-color: beige ;
+	float:left;
+	margin-left: 	150px;
+	border-radius: 	5px;
+}
+
+/*.cookieSelect{
+	position: 	relative;	
+}
+*/ 	 
+.display{
+	width: auto inherit	;
+	height: 	120px;
+	border-top:20px beige	solid;
+	/*display: 	inline-block;*/
+	position: absolute;	
+	top:520px;		
+}
+
+.totalDiv{
+	background-color: beige;
+	height: 	100px;
+	width: 	100px;
+	display: 	inline-block;
+	margin-left: 	115px;
+	margin-right: 	112px;	
+}
+
+.sugTotDiv{
+	background-color: beige;
+	height: 	100px;
+	width: 	100px;
+	display: 	inline-block;
+	margin-left: 	115px;	
+	margin-right: 	115px;
+
+}
+
+.chocTotDiv{
+	background-color: beige;
+	height: 100px;
+	width: 	100px;
+	display: 	inline-block;
+	margin-left: 	115px;
+	margin-right: 	112px;	
+		/*margin-top: 	5px;	*/
+}
+
+.lemTotDiv{
+	background-color: beige;
+	height: 	100px;
+	width: 	100px;
+		display: 	inline-block;	
+		margin-left: 	115px;
+		margin-right: 	112px;	
+}
+
+h2{
+	font-size: 	16px;
+	margin-bottom: 	2px;
+
+}
+
+p{
+	margin-bottom: 	2px;
+}
+/*.anim{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+};*/
